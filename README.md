@@ -243,12 +243,17 @@ aviation-safety-analytics/
 
 ---
 
-## Author
+## Contributors
 
 **Zeynep Su Sosun** — Software Engineering Student, Near East University
 
 - GitHub: [github.com/zeynepsusosun](https://github.com/zeynepsusosun)
 - LinkedIn: [linkedin.com/in/zeynep-su-sosun-65ab28296](https://www.linkedin.com/in/zeynep-su-sosun-65ab28296)
+
+**Enes Erul** - Software Engineering Student, Near East University
+
+- GitHub: [github.com/0Ens] (https://github.com/0Ens)
+- LinkedIn: [linkedin.com/in/enes-erul-082b4028a] (https://www.linkedin.com/in/enes-erul-082b4028a)
 
 ---
 
