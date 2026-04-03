@@ -1,0 +1,38 @@
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+npm-debug.log*
+
+# Dependencies (none used, but just in case)
+node_modules/
+bower_components/
+
+# Build output
+dist/
+build/
+*.min.js
+*.min.css
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Misc
+*.bak
+*.tmp
+*.cache
